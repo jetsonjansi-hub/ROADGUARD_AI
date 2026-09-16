@@ -51,7 +51,6 @@ starlette==1.6.0
 streamlit==1.63.0
 sympy==1.13.1
 toml==0.10.2
-torch==2.6.0+cu124
 torchaudio==2.6.0+cu124
 torchvision==0.21.0+cu124
 typing_extensions==4.16.0
